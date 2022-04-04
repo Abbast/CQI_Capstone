@@ -1,2 +1,2 @@
-# CQI_Capstone
-Data Engineering capstone project with Talent Path
+# DE Capstone: Coffee Quality (CQI)
+Capstone project with Talent Path
