@@ -137,8 +137,8 @@ farms.to_csv('farms.csv', index = False)
 
 # Upload the files to our target s3 bucket
 s3 = boto3.client('s3',
-    aws_access_key_id = 'AKIA5RGT3KKYW47XSEGV',
-    aws_secret_access_key = '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')
+    aws_access_key_id = '#####################',
+    aws_secret_access_key = '##############################')
 bucket = 'ta-s3-2' 
 file1 = 'quality.csv'
 file2 = 'beans.csv'
